@@ -6,8 +6,11 @@ A collection of meetups and hack nights for the Melbourne dev community
 - [MelbJS](http://melbjs.com/)
 - [React Melbourne](https://www.meetup.com/React-Melbourne/)
 - [AngularJS Melbourne](http://www.meetup.com/AngularJS-Melbourne/)
+
 ## Ruby/Rails
 
+- [Ruby and Rails Melbourne](https://www.meetup.com/Ruby-On-Rails-Oceania-Melbourne/)
+- 
 ## Elixir
 
 - [Elixir Melbourne](http://www.meetup.com/Elixir-Melbourne/)
