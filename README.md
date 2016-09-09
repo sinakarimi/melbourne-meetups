@@ -10,7 +10,7 @@ A collection of meetups and hack nights for the Melbourne dev community
 ## Ruby/Rails
 
 - [Ruby and Rails Melbourne](https://www.meetup.com/Ruby-On-Rails-Oceania-Melbourne/)
-- 
+
 ## Elixir
 
 - [Elixir Melbourne](http://www.meetup.com/Elixir-Melbourne/)
