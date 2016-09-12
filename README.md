@@ -27,6 +27,10 @@ A collection of meetups and hack nights for the Melbourne dev community
 
 - [GDG Melbourne](http://www.meetup.com/gdg-melbourne)
 
+## Golang
+
+- [Golang Melbourne](http://www.meetup.com/golang-mel/)
+
 # Adding a meetup
 
 To add a meetup just submit an issue or pull request and I'll add it to the list. Also, feel free to provide any suggestion for improving this Github page. Thanks!
