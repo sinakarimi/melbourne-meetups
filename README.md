@@ -11,6 +11,11 @@ A collection of meetups and hack nights for the Melbourne dev community
 
 - [MelbCSS](https://www.meetup.com/MelbCSS/)
 
+## Cloud
+
+- [Melbourne Azure Nights](https://www.meetup.com/Melbourne-Azure-Nights/)
+- [Melbourne Microsoft Cloud and Datacenter Meetup](https://www.meetup.com/Melbourne-Microsoft-Cloud-and-Datacenter-Meetup/)
+
 ## Ruby/Rails
 
 - [Ruby and Rails Melbourne](https://www.meetup.com/Ruby-On-Rails-Oceania-Melbourne/)
@@ -21,11 +26,15 @@ A collection of meetups and hack nights for the Melbourne dev community
 
 ## Elm
 
-- [Elm Melbourne](http://elm-melb-2016-sept.peatix.com/)
+- [Elm Melbourne](https://www.meetup.com/Elm-Melbourne/)
 
 ## iOS/OSX
 
 - [Melbourne Cocoaheads](http://www.melbournecocoaheads.com/)
+
+## Junior
+
+- [Junior Developers Melbourne](https://www.meetup.com/Junior-Developers-Melbourne/)
 
 ## Android
 
@@ -68,18 +77,19 @@ A collection of meetups and hack nights for the Melbourne dev community
 ## Software Development
 
 - [Melbourne Learn Coffee](https://www.meetup.com/Melbourne-Lean-Coffee/)
-- [SCRUM Practice Melbourne](https://www.meetup.com/SCRUMWORKS/)
 - [Melbourne Web Developers](https://www.meetup.com/Melbourne-Web-Developers/)
-
-## Security Development
-
-- [Security Development Melbourne](http://www.meetup.com/Secure-Development-Melbourne/)
 
 ## Women in Technology
 
 - [Rails Girls Melbourne](http://railsgirls.com/melbourne)
 - [Girl Geek Dinners Melbourne](http://www.meetup.com/Girl-Geek-Dinners-Melbourne/)
 - [Female Coders Lab Melbourne](http://www.meetup.com/Female-Coders-Lab-Melbourne/)
+
+## UX
+- [The UX Design Group of Melbourne](https://www.meetup.com/The-UX-Design-Group-of-Melbourne/)
+- [UX Gatherings](https://www.meetup.com/UX-Gatherings/)
+- [UX Psychology Melbourne](https://www.meetup.com/uxpsychology/)
+- [DesignOps Melbourne](https://www.meetup.com/DesignOps/)
 
 
 # Adding a meetup
